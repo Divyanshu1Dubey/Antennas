@@ -1,0 +1,45 @@
+{
+    "parameters": [
+        {
+            "expr": "48",
+            "name": "L",
+            "value": "48"
+        },
+        {
+            "expr": "53",
+            "name": "W",
+            "value": "53"
+        },
+        {
+            "expr": "31.5",
+            "name": "Lf",
+            "value": "31.5"
+        },
+        {
+            "expr": "8",
+            "name": "Wf",
+            "value": "8"
+        },
+        {
+            "expr": "0.5",
+            "name": "Gpf",
+            "value": "0.5"
+        },
+        {
+            "expr": "3.2",
+            "name": "h",
+            "value": "3.2"
+        },
+        {
+            "expr": "0.1",
+            "name": "Mt",
+            "value": "0.1"
+        },
+        {
+            "expr": "12.5",
+            "name": "Fi",
+            "value": "12.5"
+        }
+    ],
+    "version": 1
+}
